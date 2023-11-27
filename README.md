@@ -22,6 +22,12 @@
         - `sns`
         - `lamda`
         - `S3`
+        - `API Gateway`
+        - `ELB`
+        - `spring boot MSA`
+        - `nginx`
+        - `jenkins`
+        - `bastion server 구축`
     - `GoormIDE`
     - `Oracle cloud`
     - `Spring Boot`
